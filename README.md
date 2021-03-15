@@ -1,4 +1,4 @@
-# Flutter Socket.io Based
+# Flutter Message Application with Socket.io
 
 A new Flutter project.
 
